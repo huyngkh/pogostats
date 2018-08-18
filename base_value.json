@@ -1,0 +1,4057 @@
+{
+  "bulbasaur": {
+    "base_attack": 118,
+    "base_defense": 118,
+    "base_stamina": 90
+  },
+  "ivysaur": {
+    "base_attack": 151,
+    "base_defense": 151,
+    "base_stamina": 120
+  },
+  "venusaur": {
+    "base_attack": 198,
+    "base_defense": 198,
+    "base_stamina": 160
+  },
+  "charmander": {
+    "base_attack": 116,
+    "base_defense": 96,
+    "base_stamina": 78
+  },
+  "charmeleon": {
+    "base_attack": 158,
+    "base_defense": 129,
+    "base_stamina": 116
+  },
+  "charizard": {
+    "base_attack": 223,
+    "base_defense": 176,
+    "base_stamina": 156
+  },
+  "squirtle": {
+    "base_attack": 94,
+    "base_defense": 122,
+    "base_stamina": 88
+  },
+  "wartortle": {
+    "base_attack": 126,
+    "base_defense": 155,
+    "base_stamina": 118
+  },
+  "blastoise": {
+    "base_attack": 171,
+    "base_defense": 210,
+    "base_stamina": 158
+  },
+  "caterpie": {
+    "base_attack": 55,
+    "base_defense": 62,
+    "base_stamina": 90
+  },
+  "metapod": {
+    "base_attack": 45,
+    "base_defense": 94,
+    "base_stamina": 100
+  },
+  "butterfree": {
+    "base_attack": 167,
+    "base_defense": 151,
+    "base_stamina": 120
+  },
+  "weedle": {
+    "base_attack": 63,
+    "base_defense": 55,
+    "base_stamina": 80
+  },
+  "kakuna": {
+    "base_attack": 46,
+    "base_defense": 86,
+    "base_stamina": 90
+  },
+  "beedrill": {
+    "base_attack": 169,
+    "base_defense": 150,
+    "base_stamina": 130
+  },
+  "pidgey": {
+    "base_attack": 85,
+    "base_defense": 76,
+    "base_stamina": 80
+  },
+  "pidgeotto": {
+    "base_attack": 117,
+    "base_defense": 108,
+    "base_stamina": 126
+  },
+  "pidgeot": {
+    "base_attack": 166,
+    "base_defense": 157,
+    "base_stamina": 166
+  },
+  "rattata": {
+    "base_attack": 103,
+    "base_defense": 70,
+    "base_stamina": 60
+  },
+  "raticate": {
+    "base_attack": 161,
+    "base_defense": 144,
+    "base_stamina": 110
+  },
+  "spearow": {
+    "base_attack": 112,
+    "base_defense": 61,
+    "base_stamina": 80
+  },
+  "fearow": {
+    "base_attack": 182,
+    "base_defense": 135,
+    "base_stamina": 130
+  },
+  "ekans": {
+    "base_attack": 110,
+    "base_defense": 102,
+    "base_stamina": 70
+  },
+  "arbok": {
+    "base_attack": 167,
+    "base_defense": 158,
+    "base_stamina": 120
+  },
+  "pikachu": {
+    "base_attack": 112,
+    "base_defense": 101,
+    "base_stamina": 70
+  },
+  "raichu": {
+    "base_attack": 193,
+    "base_defense": 165,
+    "base_stamina": 120
+  },
+  "sandshrew": {
+    "base_attack": 126,
+    "base_defense": 145,
+    "base_stamina": 100
+  },
+  "sandslash": {
+    "base_attack": 182,
+    "base_defense": 202,
+    "base_stamina": 150
+  },
+  "nidoran-f": {
+    "base_attack": 86,
+    "base_defense": 94,
+    "base_stamina": 110
+  },
+  "nidorina": {
+    "base_attack": 117,
+    "base_defense": 126,
+    "base_stamina": 140
+  },
+  "nidoqueen": {
+    "base_attack": 180,
+    "base_defense": 174,
+    "base_stamina": 180
+  },
+  "nidoran-m": {
+    "base_attack": 105,
+    "base_defense": 76,
+    "base_stamina": 92
+  },
+  "nidorino": {
+    "base_attack": 137,
+    "base_defense": 112,
+    "base_stamina": 122
+  },
+  "nidoking": {
+    "base_attack": 204,
+    "base_defense": 157,
+    "base_stamina": 162
+  },
+  "clefairy": {
+    "base_attack": 107,
+    "base_defense": 116,
+    "base_stamina": 140
+  },
+  "clefable": {
+    "base_attack": 178,
+    "base_defense": 171,
+    "base_stamina": 190
+  },
+  "vulpix": {
+    "base_attack": 96,
+    "base_defense": 122,
+    "base_stamina": 76
+  },
+  "ninetales": {
+    "base_attack": 169,
+    "base_defense": 204,
+    "base_stamina": 146
+  },
+  "jigglypuff": {
+    "base_attack": 80,
+    "base_defense": 44,
+    "base_stamina": 230
+  },
+  "wigglytuff": {
+    "base_attack": 156,
+    "base_defense": 93,
+    "base_stamina": 280
+  },
+  "zubat": {
+    "base_attack": 83,
+    "base_defense": 76,
+    "base_stamina": 80
+  },
+  "golbat": {
+    "base_attack": 161,
+    "base_defense": 153,
+    "base_stamina": 150
+  },
+  "oddish": {
+    "base_attack": 131,
+    "base_defense": 116,
+    "base_stamina": 90
+  },
+  "gloom": {
+    "base_attack": 153,
+    "base_defense": 139,
+    "base_stamina": 120
+  },
+  "vileplume": {
+    "base_attack": 202,
+    "base_defense": 170,
+    "base_stamina": 150
+  },
+  "paras": {
+    "base_attack": 121,
+    "base_defense": 99,
+    "base_stamina": 70
+  },
+  "parasect": {
+    "base_attack": 165,
+    "base_defense": 146,
+    "base_stamina": 120
+  },
+  "venonat": {
+    "base_attack": 100,
+    "base_defense": 102,
+    "base_stamina": 120
+  },
+  "venomoth": {
+    "base_attack": 179,
+    "base_defense": 150,
+    "base_stamina": 140
+  },
+  "diglett": {
+    "base_attack": 109,
+    "base_defense": 88,
+    "base_stamina": 20
+  },
+  "dugtrio": {
+    "base_attack": 167,
+    "base_defense": 147,
+    "base_stamina": 70
+  },
+  "meowth": {
+    "base_attack": 92,
+    "base_defense": 81,
+    "base_stamina": 80
+  },
+  "persian": {
+    "base_attack": 150,
+    "base_defense": 139,
+    "base_stamina": 130
+  },
+  "psyduck": {
+    "base_attack": 122,
+    "base_defense": 96,
+    "base_stamina": 100
+  },
+  "golduck": {
+    "base_attack": 191,
+    "base_defense": 163,
+    "base_stamina": 160
+  },
+  "mankey": {
+    "base_attack": 148,
+    "base_defense": 87,
+    "base_stamina": 80
+  },
+  "primeape": {
+    "base_attack": 207,
+    "base_defense": 144,
+    "base_stamina": 130
+  },
+  "growlithe": {
+    "base_attack": 136,
+    "base_defense": 96,
+    "base_stamina": 110
+  },
+  "arcanine": {
+    "base_attack": 227,
+    "base_defense": 166,
+    "base_stamina": 180
+  },
+  "poliwag": {
+    "base_attack": 101,
+    "base_defense": 82,
+    "base_stamina": 80
+  },
+  "poliwhirl": {
+    "base_attack": 130,
+    "base_defense": 130,
+    "base_stamina": 130
+  },
+  "poliwrath": {
+    "base_attack": 182,
+    "base_defense": 187,
+    "base_stamina": 180
+  },
+  "abra": {
+    "base_attack": 195,
+    "base_defense": 103,
+    "base_stamina": 50
+  },
+  "kadabra": {
+    "base_attack": 232,
+    "base_defense": 138,
+    "base_stamina": 80
+  },
+  "alakazam": {
+    "base_attack": 271,
+    "base_defense": 194,
+    "base_stamina": 110
+  },
+  "machop": {
+    "base_attack": 137,
+    "base_defense": 88,
+    "base_stamina": 140
+  },
+  "machoke": {
+    "base_attack": 177,
+    "base_defense": 130,
+    "base_stamina": 160
+  },
+  "machamp": {
+    "base_attack": 234,
+    "base_defense": 162,
+    "base_stamina": 180
+  },
+  "bellsprout": {
+    "base_attack": 139,
+    "base_defense": 64,
+    "base_stamina": 100
+  },
+  "weepinbell": {
+    "base_attack": 172,
+    "base_defense": 95,
+    "base_stamina": 130
+  },
+  "victreebel": {
+    "base_attack": 207,
+    "base_defense": 138,
+    "base_stamina": 160
+  },
+  "tentacool": {
+    "base_attack": 97,
+    "base_defense": 182,
+    "base_stamina": 80
+  },
+  "tentacruel": {
+    "base_attack": 166,
+    "base_defense": 237,
+    "base_stamina": 160
+  },
+  "geodude": {
+    "base_attack": 132,
+    "base_defense": 163,
+    "base_stamina": 80
+  },
+  "graveler": {
+    "base_attack": 164,
+    "base_defense": 196,
+    "base_stamina": 110
+  },
+  "golem": {
+    "base_attack": 211,
+    "base_defense": 229,
+    "base_stamina": 160
+  },
+  "ponyta": {
+    "base_attack": 170,
+    "base_defense": 132,
+    "base_stamina": 100
+  },
+  "rapidash": {
+    "base_attack": 207,
+    "base_defense": 167,
+    "base_stamina": 130
+  },
+  "slowpoke": {
+    "base_attack": 109,
+    "base_defense": 109,
+    "base_stamina": 180
+  },
+  "slowbro": {
+    "base_attack": 177,
+    "base_defense": 194,
+    "base_stamina": 190
+  },
+  "magnemite": {
+    "base_attack": 165,
+    "base_defense": 128,
+    "base_stamina": 50
+  },
+  "magneton": {
+    "base_attack": 223,
+    "base_defense": 182,
+    "base_stamina": 100
+  },
+  "farfetchd": {
+    "base_attack": 124,
+    "base_defense": 118,
+    "base_stamina": 104
+  },
+  "doduo": {
+    "base_attack": 158,
+    "base_defense": 88,
+    "base_stamina": 70
+  },
+  "dodrio": {
+    "base_attack": 218,
+    "base_defense": 145,
+    "base_stamina": 120
+  },
+  "seel": {
+    "base_attack": 85,
+    "base_defense": 128,
+    "base_stamina": 130
+  },
+  "dewgong": {
+    "base_attack": 139,
+    "base_defense": 184,
+    "base_stamina": 180
+  },
+  "grimer": {
+    "base_attack": 135,
+    "base_defense": 90,
+    "base_stamina": 160
+  },
+  "muk": {
+    "base_attack": 190,
+    "base_defense": 184,
+    "base_stamina": 210
+  },
+  "shellder": {
+    "base_attack": 116,
+    "base_defense": 168,
+    "base_stamina": 60
+  },
+  "cloyster": {
+    "base_attack": 186,
+    "base_defense": 323,
+    "base_stamina": 100
+  },
+  "gastly": {
+    "base_attack": 186,
+    "base_defense": 70,
+    "base_stamina": 60
+  },
+  "haunter": {
+    "base_attack": 223,
+    "base_defense": 112,
+    "base_stamina": 90
+  },
+  "gengar": {
+    "base_attack": 261,
+    "base_defense": 156,
+    "base_stamina": 120
+  },
+  "onix": {
+    "base_attack": 85,
+    "base_defense": 288,
+    "base_stamina": 70
+  },
+  "drowzee": {
+    "base_attack": 89,
+    "base_defense": 158,
+    "base_stamina": 120
+  },
+  "hypno": {
+    "base_attack": 144,
+    "base_defense": 215,
+    "base_stamina": 170
+  },
+  "krabby": {
+    "base_attack": 181,
+    "base_defense": 156,
+    "base_stamina": 60
+  },
+  "kingler": {
+    "base_attack": 240,
+    "base_defense": 214,
+    "base_stamina": 110
+  },
+  "voltorb": {
+    "base_attack": 109,
+    "base_defense": 114,
+    "base_stamina": 80
+  },
+  "electrode": {
+    "base_attack": 173,
+    "base_defense": 179,
+    "base_stamina": 120
+  },
+  "exeggcute": {
+    "base_attack": 107,
+    "base_defense": 140,
+    "base_stamina": 120
+  },
+  "exeggutor": {
+    "base_attack": 233,
+    "base_defense": 158,
+    "base_stamina": 190
+  },
+  "cubone": {
+    "base_attack": 90,
+    "base_defense": 165,
+    "base_stamina": 100
+  },
+  "marowak": {
+    "base_attack": 144,
+    "base_defense": 200,
+    "base_stamina": 120
+  },
+  "hitmonlee": {
+    "base_attack": 224,
+    "base_defense": 211,
+    "base_stamina": 100
+  },
+  "hitmonchan": {
+    "base_attack": 193,
+    "base_defense": 212,
+    "base_stamina": 100
+  },
+  "lickitung": {
+    "base_attack": 108,
+    "base_defense": 137,
+    "base_stamina": 180
+  },
+  "koffing": {
+    "base_attack": 119,
+    "base_defense": 164,
+    "base_stamina": 80
+  },
+  "weezing": {
+    "base_attack": 174,
+    "base_defense": 221,
+    "base_stamina": 130
+  },
+  "rhyhorn": {
+    "base_attack": 140,
+    "base_defense": 157,
+    "base_stamina": 160
+  },
+  "rhydon": {
+    "base_attack": 222,
+    "base_defense": 206,
+    "base_stamina": 210
+  },
+  "chansey": {
+    "base_attack": 60,
+    "base_defense": 176,
+    "base_stamina": 500
+  },
+  "tangela": {
+    "base_attack": 183,
+    "base_defense": 205,
+    "base_stamina": 130
+  },
+  "kangaskhan": {
+    "base_attack": 181,
+    "base_defense": 165,
+    "base_stamina": 210
+  },
+  "horsea": {
+    "base_attack": 129,
+    "base_defense": 125,
+    "base_stamina": 60
+  },
+  "seadra": {
+    "base_attack": 187,
+    "base_defense": 182,
+    "base_stamina": 110
+  },
+  "goldeen": {
+    "base_attack": 123,
+    "base_defense": 115,
+    "base_stamina": 90
+  },
+  "seaking": {
+    "base_attack": 175,
+    "base_defense": 154,
+    "base_stamina": 160
+  },
+  "staryu": {
+    "base_attack": 137,
+    "base_defense": 112,
+    "base_stamina": 60
+  },
+  "starmie": {
+    "base_attack": 210,
+    "base_defense": 184,
+    "base_stamina": 120
+  },
+  "mr-mime": {
+    "base_attack": 192,
+    "base_defense": 233,
+    "base_stamina": 80
+  },
+  "scyther": {
+    "base_attack": 218,
+    "base_defense": 170,
+    "base_stamina": 140
+  },
+  "jynx": {
+    "base_attack": 223,
+    "base_defense": 182,
+    "base_stamina": 130
+  },
+  "electabuzz": {
+    "base_attack": 198,
+    "base_defense": 173,
+    "base_stamina": 130
+  },
+  "magmar": {
+    "base_attack": 206,
+    "base_defense": 169,
+    "base_stamina": 130
+  },
+  "pinsir": {
+    "base_attack": 238,
+    "base_defense": 197,
+    "base_stamina": 130
+  },
+  "tauros": {
+    "base_attack": 198,
+    "base_defense": 197,
+    "base_stamina": 150
+  },
+  "magikarp": {
+    "base_attack": 29,
+    "base_defense": 102,
+    "base_stamina": 40
+  },
+  "gyarados": {
+    "base_attack": 237,
+    "base_defense": 197,
+    "base_stamina": 190
+  },
+  "lapras": {
+    "base_attack": 165,
+    "base_defense": 180,
+    "base_stamina": 260
+  },
+  "ditto": {
+    "base_attack": 91,
+    "base_defense": 91,
+    "base_stamina": 96
+  },
+  "eevee": {
+    "base_attack": 104,
+    "base_defense": 121,
+    "base_stamina": 110
+  },
+  "vaporeon": {
+    "base_attack": 205,
+    "base_defense": 177,
+    "base_stamina": 260
+  },
+  "jolteon": {
+    "base_attack": 232,
+    "base_defense": 201,
+    "base_stamina": 130
+  },
+  "flareon": {
+    "base_attack": 246,
+    "base_defense": 204,
+    "base_stamina": 130
+  },
+  "porygon": {
+    "base_attack": 153,
+    "base_defense": 139,
+    "base_stamina": 130
+  },
+  "omanyte": {
+    "base_attack": 155,
+    "base_defense": 174,
+    "base_stamina": 70
+  },
+  "omastar": {
+    "base_attack": 207,
+    "base_defense": 227,
+    "base_stamina": 140
+  },
+  "kabuto": {
+    "base_attack": 148,
+    "base_defense": 162,
+    "base_stamina": 60
+  },
+  "kabutops": {
+    "base_attack": 220,
+    "base_defense": 203,
+    "base_stamina": 120
+  },
+  "aerodactyl": {
+    "base_attack": 221,
+    "base_defense": 164,
+    "base_stamina": 160
+  },
+  "snorlax": {
+    "base_attack": 190,
+    "base_defense": 190,
+    "base_stamina": 320
+  },
+  "articuno": {
+    "base_attack": 192,
+    "base_defense": 249,
+    "base_stamina": 180
+  },
+  "zapdos": {
+    "base_attack": 253,
+    "base_defense": 188,
+    "base_stamina": 180
+  },
+  "moltres": {
+    "base_attack": 251,
+    "base_defense": 184,
+    "base_stamina": 180
+  },
+  "dratini": {
+    "base_attack": 119,
+    "base_defense": 94,
+    "base_stamina": 82
+  },
+  "dragonair": {
+    "base_attack": 163,
+    "base_defense": 138,
+    "base_stamina": 122
+  },
+  "dragonite": {
+    "base_attack": 263,
+    "base_defense": 201,
+    "base_stamina": 182
+  },
+  "mewtwo": {
+    "base_attack": 300,
+    "base_defense": 182,
+    "base_stamina": 193
+  },
+  "mew": {
+    "base_attack": 210,
+    "base_defense": 210,
+    "base_stamina": 200
+  },
+  "chikorita": {
+    "base_attack": 92,
+    "base_defense": 122,
+    "base_stamina": 90
+  },
+  "bayleef": {
+    "base_attack": 122,
+    "base_defense": 155,
+    "base_stamina": 120
+  },
+  "meganium": {
+    "base_attack": 168,
+    "base_defense": 202,
+    "base_stamina": 160
+  },
+  "cyndaquil": {
+    "base_attack": 116,
+    "base_defense": 96,
+    "base_stamina": 78
+  },
+  "quilava": {
+    "base_attack": 158,
+    "base_defense": 129,
+    "base_stamina": 116
+  },
+  "typhlosion": {
+    "base_attack": 223,
+    "base_defense": 176,
+    "base_stamina": 156
+  },
+  "totodile": {
+    "base_attack": 117,
+    "base_defense": 116,
+    "base_stamina": 100
+  },
+  "croconaw": {
+    "base_attack": 150,
+    "base_defense": 151,
+    "base_stamina": 130
+  },
+  "feraligatr": {
+    "base_attack": 205,
+    "base_defense": 197,
+    "base_stamina": 170
+  },
+  "sentret": {
+    "base_attack": 79,
+    "base_defense": 77,
+    "base_stamina": 70
+  },
+  "furret": {
+    "base_attack": 148,
+    "base_defense": 130,
+    "base_stamina": 170
+  },
+  "hoothoot": {
+    "base_attack": 67,
+    "base_defense": 101,
+    "base_stamina": 120
+  },
+  "noctowl": {
+    "base_attack": 145,
+    "base_defense": 179,
+    "base_stamina": 200
+  },
+  "ledyba": {
+    "base_attack": 72,
+    "base_defense": 142,
+    "base_stamina": 80
+  },
+  "ledian": {
+    "base_attack": 107,
+    "base_defense": 209,
+    "base_stamina": 110
+  },
+  "spinarak": {
+    "base_attack": 105,
+    "base_defense": 73,
+    "base_stamina": 80
+  },
+  "ariados": {
+    "base_attack": 161,
+    "base_defense": 128,
+    "base_stamina": 140
+  },
+  "crobat": {
+    "base_attack": 194,
+    "base_defense": 178,
+    "base_stamina": 170
+  },
+  "chinchou": {
+    "base_attack": 106,
+    "base_defense": 106,
+    "base_stamina": 150
+  },
+  "lanturn": {
+    "base_attack": 146,
+    "base_defense": 146,
+    "base_stamina": 250
+  },
+  "pichu": {
+    "base_attack": 77,
+    "base_defense": 63,
+    "base_stamina": 40
+  },
+  "cleffa": {
+    "base_attack": 75,
+    "base_defense": 91,
+    "base_stamina": 100
+  },
+  "igglybuff": {
+    "base_attack": 69,
+    "base_defense": 34,
+    "base_stamina": 180
+  },
+  "togepi": {
+    "base_attack": 67,
+    "base_defense": 116,
+    "base_stamina": 70
+  },
+  "togetic": {
+    "base_attack": 139,
+    "base_defense": 191,
+    "base_stamina": 110
+  },
+  "natu": {
+    "base_attack": 134,
+    "base_defense": 89,
+    "base_stamina": 80
+  },
+  "xatu": {
+    "base_attack": 192,
+    "base_defense": 146,
+    "base_stamina": 130
+  },
+  "mareep": {
+    "base_attack": 114,
+    "base_defense": 82,
+    "base_stamina": 110
+  },
+  "flaaffy": {
+    "base_attack": 145,
+    "base_defense": 112,
+    "base_stamina": 140
+  },
+  "ampharos": {
+    "base_attack": 211,
+    "base_defense": 172,
+    "base_stamina": 180
+  },
+  "bellossom": {
+    "base_attack": 169,
+    "base_defense": 189,
+    "base_stamina": 150
+  },
+  "marill": {
+    "base_attack": 37,
+    "base_defense": 93,
+    "base_stamina": 140
+  },
+  "azumarill": {
+    "base_attack": 112,
+    "base_defense": 152,
+    "base_stamina": 200
+  },
+  "sudowoodo": {
+    "base_attack": 167,
+    "base_defense": 198,
+    "base_stamina": 140
+  },
+  "politoed": {
+    "base_attack": 174,
+    "base_defense": 192,
+    "base_stamina": 180
+  },
+  "hoppip": {
+    "base_attack": 67,
+    "base_defense": 101,
+    "base_stamina": 70
+  },
+  "skiploom": {
+    "base_attack": 91,
+    "base_defense": 127,
+    "base_stamina": 110
+  },
+  "jumpluff": {
+    "base_attack": 118,
+    "base_defense": 197,
+    "base_stamina": 150
+  },
+  "aipom": {
+    "base_attack": 136,
+    "base_defense": 112,
+    "base_stamina": 110
+  },
+  "sunkern": {
+    "base_attack": 55,
+    "base_defense": 55,
+    "base_stamina": 60
+  },
+  "sunflora": {
+    "base_attack": 185,
+    "base_defense": 148,
+    "base_stamina": 150
+  },
+  "yanma": {
+    "base_attack": 154,
+    "base_defense": 94,
+    "base_stamina": 130
+  },
+  "wooper": {
+    "base_attack": 75,
+    "base_defense": 75,
+    "base_stamina": 110
+  },
+  "quagsire": {
+    "base_attack": 152,
+    "base_defense": 152,
+    "base_stamina": 190
+  },
+  "espeon": {
+    "base_attack": 261,
+    "base_defense": 194,
+    "base_stamina": 130
+  },
+  "umbreon": {
+    "base_attack": 126,
+    "base_defense": 250,
+    "base_stamina": 190
+  },
+  "murkrow": {
+    "base_attack": 175,
+    "base_defense": 87,
+    "base_stamina": 120
+  },
+  "slowking": {
+    "base_attack": 177,
+    "base_defense": 194,
+    "base_stamina": 190
+  },
+  "misdreavus": {
+    "base_attack": 167,
+    "base_defense": 167,
+    "base_stamina": 120
+  },
+  "unown": {
+    "base_attack": 136,
+    "base_defense": 91,
+    "base_stamina": 96
+  },
+  "wobbuffet": {
+    "base_attack": 60,
+    "base_defense": 106,
+    "base_stamina": 380
+  },
+  "girafarig": {
+    "base_attack": 182,
+    "base_defense": 133,
+    "base_stamina": 140
+  },
+  "pineco": {
+    "base_attack": 108,
+    "base_defense": 146,
+    "base_stamina": 100
+  },
+  "forretress": {
+    "base_attack": 161,
+    "base_defense": 242,
+    "base_stamina": 150
+  },
+  "dunsparce": {
+    "base_attack": 131,
+    "base_defense": 131,
+    "base_stamina": 200
+  },
+  "gligar": {
+    "base_attack": 143,
+    "base_defense": 204,
+    "base_stamina": 130
+  },
+  "steelix": {
+    "base_attack": 148,
+    "base_defense": 333,
+    "base_stamina": 150
+  },
+  "snubbull": {
+    "base_attack": 137,
+    "base_defense": 89,
+    "base_stamina": 120
+  },
+  "granbull": {
+    "base_attack": 212,
+    "base_defense": 137,
+    "base_stamina": 180
+  },
+  "qwilfish": {
+    "base_attack": 184,
+    "base_defense": 148,
+    "base_stamina": 130
+  },
+  "scizor": {
+    "base_attack": 236,
+    "base_defense": 191,
+    "base_stamina": 140
+  },
+  "shuckle": {
+    "base_attack": 17,
+    "base_defense": 396,
+    "base_stamina": 40
+  },
+  "heracross": {
+    "base_attack": 234,
+    "base_defense": 189,
+    "base_stamina": 160
+  },
+  "sneasel": {
+    "base_attack": 189,
+    "base_defense": 157,
+    "base_stamina": 110
+  },
+  "teddiursa": {
+    "base_attack": 142,
+    "base_defense": 93,
+    "base_stamina": 120
+  },
+  "ursaring": {
+    "base_attack": 236,
+    "base_defense": 144,
+    "base_stamina": 180
+  },
+  "slugma": {
+    "base_attack": 118,
+    "base_defense": 71,
+    "base_stamina": 80
+  },
+  "magcargo": {
+    "base_attack": 139,
+    "base_defense": 209,
+    "base_stamina": 100
+  },
+  "swinub": {
+    "base_attack": 90,
+    "base_defense": 74,
+    "base_stamina": 100
+  },
+  "piloswine": {
+    "base_attack": 181,
+    "base_defense": 147,
+    "base_stamina": 200
+  },
+  "corsola": {
+    "base_attack": 118,
+    "base_defense": 156,
+    "base_stamina": 110
+  },
+  "remoraid": {
+    "base_attack": 127,
+    "base_defense": 69,
+    "base_stamina": 70
+  },
+  "octillery": {
+    "base_attack": 197,
+    "base_defense": 141,
+    "base_stamina": 150
+  },
+  "delibird": {
+    "base_attack": 128,
+    "base_defense": 90,
+    "base_stamina": 90
+  },
+  "mantine": {
+    "base_attack": 148,
+    "base_defense": 260,
+    "base_stamina": 130
+  },
+  "skarmory": {
+    "base_attack": 148,
+    "base_defense": 260,
+    "base_stamina": 130
+  },
+  "houndour": {
+    "base_attack": 152,
+    "base_defense": 93,
+    "base_stamina": 90
+  },
+  "houndoom": {
+    "base_attack": 224,
+    "base_defense": 159,
+    "base_stamina": 150
+  },
+  "kingdra": {
+    "base_attack": 194,
+    "base_defense": 194,
+    "base_stamina": 150
+  },
+  "phanpy": {
+    "base_attack": 107,
+    "base_defense": 107,
+    "base_stamina": 180
+  },
+  "donphan": {
+    "base_attack": 214,
+    "base_defense": 214,
+    "base_stamina": 180
+  },
+  "porygon2": {
+    "base_attack": 198,
+    "base_defense": 183,
+    "base_stamina": 170
+  },
+  "stantler": {
+    "base_attack": 192,
+    "base_defense": 132,
+    "base_stamina": 146
+  },
+  "smeargle": {
+    "base_attack": 40,
+    "base_defense": 88,
+    "base_stamina": 110
+  },
+  "tyrogue": {
+    "base_attack": 64,
+    "base_defense": 64,
+    "base_stamina": 70
+  },
+  "hitmontop": {
+    "base_attack": 173,
+    "base_defense": 214,
+    "base_stamina": 100
+  },
+  "smoochum": {
+    "base_attack": 153,
+    "base_defense": 116,
+    "base_stamina": 90
+  },
+  "elekid": {
+    "base_attack": 135,
+    "base_defense": 110,
+    "base_stamina": 90
+  },
+  "magby": {
+    "base_attack": 151,
+    "base_defense": 108,
+    "base_stamina": 90
+  },
+  "miltank": {
+    "base_attack": 157,
+    "base_defense": 211,
+    "base_stamina": 190
+  },
+  "blissey": {
+    "base_attack": 129,
+    "base_defense": 229,
+    "base_stamina": 510
+  },
+  "raikou": {
+    "base_attack": 241,
+    "base_defense": 210,
+    "base_stamina": 180
+  },
+  "entei": {
+    "base_attack": 235,
+    "base_defense": 176,
+    "base_stamina": 230
+  },
+  "suicune": {
+    "base_attack": 180,
+    "base_defense": 235,
+    "base_stamina": 200
+  },
+  "larvitar": {
+    "base_attack": 115,
+    "base_defense": 93,
+    "base_stamina": 100
+  },
+  "pupitar": {
+    "base_attack": 155,
+    "base_defense": 133,
+    "base_stamina": 140
+  },
+  "tyranitar": {
+    "base_attack": 251,
+    "base_defense": 212,
+    "base_stamina": 200
+  },
+  "lugia": {
+    "base_attack": 193,
+    "base_defense": 323,
+    "base_stamina": 212
+  },
+  "ho-oh": {
+    "base_attack": 239,
+    "base_defense": 274,
+    "base_stamina": 193
+  },
+  "celebi": {
+    "base_attack": 210,
+    "base_defense": 210,
+    "base_stamina": 200
+  },
+  "treecko": {
+    "base_attack": 124,
+    "base_defense": 104,
+    "base_stamina": 80
+  },
+  "grovyle": {
+    "base_attack": 172,
+    "base_defense": 130,
+    "base_stamina": 100
+  },
+  "sceptile": {
+    "base_attack": 223,
+    "base_defense": 180,
+    "base_stamina": 140
+  },
+  "torchic": {
+    "base_attack": 130,
+    "base_defense": 92,
+    "base_stamina": 90
+  },
+  "combusken": {
+    "base_attack": 163,
+    "base_defense": 115,
+    "base_stamina": 120
+  },
+  "blaziken": {
+    "base_attack": 240,
+    "base_defense": 141,
+    "base_stamina": 160
+  },
+  "mudkip": {
+    "base_attack": 126,
+    "base_defense": 93,
+    "base_stamina": 100
+  },
+  "marshtomp": {
+    "base_attack": 156,
+    "base_defense": 133,
+    "base_stamina": 140
+  },
+  "swampert": {
+    "base_attack": 208,
+    "base_defense": 175,
+    "base_stamina": 200
+  },
+  "poochyena": {
+    "base_attack": 96,
+    "base_defense": 63,
+    "base_stamina": 70
+  },
+  "mightyena": {
+    "base_attack": 171,
+    "base_defense": 137,
+    "base_stamina": 140
+  },
+  "zigzagoon": {
+    "base_attack": 58,
+    "base_defense": 80,
+    "base_stamina": 76
+  },
+  "linoone": {
+    "base_attack": 142,
+    "base_defense": 128,
+    "base_stamina": 156
+  },
+  "wurmple": {
+    "base_attack": 75,
+    "base_defense": 61,
+    "base_stamina": 90
+  },
+  "silcoon": {
+    "base_attack": 60,
+    "base_defense": 91,
+    "base_stamina": 100
+  },
+  "beautifly": {
+    "base_attack": 189,
+    "base_defense": 98,
+    "base_stamina": 120
+  },
+  "cascoon": {
+    "base_attack": 60,
+    "base_defense": 91,
+    "base_stamina": 100
+  },
+  "dustox": {
+    "base_attack": 98,
+    "base_defense": 172,
+    "base_stamina": 120
+  },
+  "lotad": {
+    "base_attack": 71,
+    "base_defense": 86,
+    "base_stamina": 80
+  },
+  "lombre": {
+    "base_attack": 112,
+    "base_defense": 128,
+    "base_stamina": 120
+  },
+  "ludicolo": {
+    "base_attack": 173,
+    "base_defense": 191,
+    "base_stamina": 160
+  },
+  "seedot": {
+    "base_attack": 71,
+    "base_defense": 86,
+    "base_stamina": 80
+  },
+  "nuzleaf": {
+    "base_attack": 134,
+    "base_defense": 78,
+    "base_stamina": 140
+  },
+  "shiftry": {
+    "base_attack": 200,
+    "base_defense": 121,
+    "base_stamina": 180
+  },
+  "taillow": {
+    "base_attack": 106,
+    "base_defense": 61,
+    "base_stamina": 80
+  },
+  "swellow": {
+    "base_attack": 185,
+    "base_defense": 130,
+    "base_stamina": 120
+  },
+  "wingull": {
+    "base_attack": 106,
+    "base_defense": 61,
+    "base_stamina": 80
+  },
+  "pelipper": {
+    "base_attack": 175,
+    "base_defense": 189,
+    "base_stamina": 120
+  },
+  "ralts": {
+    "base_attack": 79,
+    "base_defense": 63,
+    "base_stamina": 56
+  },
+  "kirlia": {
+    "base_attack": 117,
+    "base_defense": 100,
+    "base_stamina": 76
+  },
+  "gardevoir": {
+    "base_attack": 237,
+    "base_defense": 220,
+    "base_stamina": 136
+  },
+  "surskit": {
+    "base_attack": 93,
+    "base_defense": 97,
+    "base_stamina": 80
+  },
+  "masquerain": {
+    "base_attack": 192,
+    "base_defense": 161,
+    "base_stamina": 140
+  },
+  "shroomish": {
+    "base_attack": 74,
+    "base_defense": 110,
+    "base_stamina": 12
+  },
+  "breloom": {
+    "base_attack": 241,
+    "base_defense": 153,
+    "base_stamina": 120
+  },
+  "slakoth": {
+    "base_attack": 104,
+    "base_defense": 104,
+    "base_stamina": 120
+  },
+  "vigoroth": {
+    "base_attack": 159,
+    "base_defense": 159,
+    "base_stamina": 160
+  },
+  "slaking": {
+    "base_attack": 290,
+    "base_defense": 183,
+    "base_stamina": 273
+  },
+  "nincada": {
+    "base_attack": 80,
+    "base_defense": 153,
+    "base_stamina": 62
+  },
+  "ninjask": {
+    "base_attack": 196,
+    "base_defense": 114,
+    "base_stamina": 122
+  },
+  "shedinja": {
+    "base_attack": 153,
+    "base_defense": 80,
+    "base_stamina": 2
+  },
+  "whismur": {
+    "base_attack": 92,
+    "base_defense": 42,
+    "base_stamina": 128
+  },
+  "loudred": {
+    "base_attack": 134,
+    "base_defense": 81,
+    "base_stamina": 168
+  },
+  "exploud": {
+    "base_attack": 179,
+    "base_defense": 142,
+    "base_stamina": 208
+  },
+  "makuhita": {
+    "base_attack": 99,
+    "base_defense": 54,
+    "base_stamina": 144
+  },
+  "hariyama": {
+    "base_attack": 209,
+    "base_defense": 114,
+    "base_stamina": 288
+  },
+  "azurill": {
+    "base_attack": 36,
+    "base_defense": 71,
+    "base_stamina": 100
+  },
+  "nosepass": {
+    "base_attack": 82,
+    "base_defense": 236,
+    "base_stamina": 60
+  },
+  "skitty": {
+    "base_attack": 84,
+    "base_defense": 84,
+    "base_stamina": 100
+  },
+  "delcatty": {
+    "base_attack": 132,
+    "base_defense": 132,
+    "base_stamina": 140
+  },
+  "sableye": {
+    "base_attack": 141,
+    "base_defense": 141,
+    "base_stamina": 100
+  },
+  "mawile": {
+    "base_attack": 155,
+    "base_defense": 155,
+    "base_stamina": 100
+  },
+  "aron": {
+    "base_attack": 121,
+    "base_defense": 168,
+    "base_stamina": 100
+  },
+  "lairon": {
+    "base_attack": 158,
+    "base_defense": 240,
+    "base_stamina": 120
+  },
+  "aggron": {
+    "base_attack": 198,
+    "base_defense": 314,
+    "base_stamina": 140
+  },
+  "meditite": {
+    "base_attack": 78,
+    "base_defense": 107,
+    "base_stamina": 60
+  },
+  "medicham": {
+    "base_attack": 121,
+    "base_defense": 152,
+    "base_stamina": 120
+  },
+  "electrike": {
+    "base_attack": 123,
+    "base_defense": 78,
+    "base_stamina": 80
+  },
+  "manectric": {
+    "base_attack": 215,
+    "base_defense": 127,
+    "base_stamina": 140
+  },
+  "plusle": {
+    "base_attack": 167,
+    "base_defense": 147,
+    "base_stamina": 120
+  },
+  "minun": {
+    "base_attack": 147,
+    "base_defense": 167,
+    "base_stamina": 120
+  },
+  "volbeat": {
+    "base_attack": 143,
+    "base_defense": 171,
+    "base_stamina": 130
+  },
+  "illumise": {
+    "base_attack": 143,
+    "base_defense": 171,
+    "base_stamina": 130
+  },
+  "roselia": {
+    "base_attack": 186,
+    "base_defense": 148,
+    "base_stamina": 100
+  },
+  "gulpin": {
+    "base_attack": 80,
+    "base_defense": 99,
+    "base_stamina": 140
+  },
+  "swalot": {
+    "base_attack": 140,
+    "base_defense": 159,
+    "base_stamina": 200
+  },
+  "carvanha": {
+    "base_attack": 171,
+    "base_defense": 39,
+    "base_stamina": 90
+  },
+  "sharpedo": {
+    "base_attack": 243,
+    "base_defense": 83,
+    "base_stamina": 140
+  },
+  "wailmer": {
+    "base_attack": 136,
+    "base_defense": 68,
+    "base_stamina": 260
+  },
+  "wailord": {
+    "base_attack": 175,
+    "base_defense": 87,
+    "base_stamina": 340
+  },
+  "numel": {
+    "base_attack": 119,
+    "base_defense": 82,
+    "base_stamina": 120
+  },
+  "camerupt": {
+    "base_attack": 194,
+    "base_defense": 139,
+    "base_stamina": 140
+  },
+  "torkoal": {
+    "base_attack": 151,
+    "base_defense": 234,
+    "base_stamina": 140
+  },
+  "spoink": {
+    "base_attack": 125,
+    "base_defense": 145,
+    "base_stamina": 120
+  },
+  "grumpig": {
+    "base_attack": 171,
+    "base_defense": 211,
+    "base_stamina": 160
+  },
+  "spinda": {
+    "base_attack": 116,
+    "base_defense": 116,
+    "base_stamina": 120
+  },
+  "trapinch": {
+    "base_attack": 162,
+    "base_defense": 78,
+    "base_stamina": 90
+  },
+  "vibrava": {
+    "base_attack": 134,
+    "base_defense": 99,
+    "base_stamina": 100
+  },
+  "flygon": {
+    "base_attack": 205,
+    "base_defense": 168,
+    "base_stamina": 160
+  },
+  "cacnea": {
+    "base_attack": 156,
+    "base_defense": 74,
+    "base_stamina": 100
+  },
+  "cacturne": {
+    "base_attack": 221,
+    "base_defense": 115,
+    "base_stamina": 140
+  },
+  "swablu": {
+    "base_attack": 76,
+    "base_defense": 139,
+    "base_stamina": 90
+  },
+  "altaria": {
+    "base_attack": 141,
+    "base_defense": 208,
+    "base_stamina": 150
+  },
+  "zangoose": {
+    "base_attack": 222,
+    "base_defense": 124,
+    "base_stamina": 146
+  },
+  "seviper": {
+    "base_attack": 196,
+    "base_defense": 118,
+    "base_stamina": 146
+  },
+  "lunatone": {
+    "base_attack": 178,
+    "base_defense": 163,
+    "base_stamina": 180
+  },
+  "solrock": {
+    "base_attack": 178,
+    "base_defense": 163,
+    "base_stamina": 180
+  },
+  "barboach": {
+    "base_attack": 93,
+    "base_defense": 83,
+    "base_stamina": 100
+  },
+  "whiscash": {
+    "base_attack": 151,
+    "base_defense": 142,
+    "base_stamina": 220
+  },
+  "corphish": {
+    "base_attack": 141,
+    "base_defense": 113,
+    "base_stamina": 86
+  },
+  "crawdaunt": {
+    "base_attack": 224,
+    "base_defense": 156,
+    "base_stamina": 126
+  },
+  "baltoy": {
+    "base_attack": 77,
+    "base_defense": 131,
+    "base_stamina": 80
+  },
+  "claydol": {
+    "base_attack": 140,
+    "base_defense": 236,
+    "base_stamina": 120
+  },
+  "lileep": {
+    "base_attack": 105,
+    "base_defense": 154,
+    "base_stamina": 132
+  },
+  "cradily": {
+    "base_attack": 152,
+    "base_defense": 198,
+    "base_stamina": 172
+  },
+  "anorith": {
+    "base_attack": 176,
+    "base_defense": 100,
+    "base_stamina": 90
+  },
+  "armaldo": {
+    "base_attack": 222,
+    "base_defense": 183,
+    "base_stamina": 150
+  },
+  "feebas": {
+    "base_attack": 29,
+    "base_defense": 102,
+    "base_stamina": 40
+  },
+  "milotic": {
+    "base_attack": 192,
+    "base_defense": 242,
+    "base_stamina": 190
+  },
+  "castform": {
+    "base_attack": 139,
+    "base_defense": 139,
+    "base_stamina": 140
+  },
+  "kecleon": {
+    "base_attack": 161,
+    "base_defense": 212,
+    "base_stamina": 120
+  },
+  "shuppet": {
+    "base_attack": 138,
+    "base_defense": 66,
+    "base_stamina": 88
+  },
+  "banette": {
+    "base_attack": 218,
+    "base_defense": 127,
+    "base_stamina": 128
+  },
+  "duskull": {
+    "base_attack": 70,
+    "base_defense": 162,
+    "base_stamina": 40
+  },
+  "dusclops": {
+    "base_attack": 124,
+    "base_defense": 234,
+    "base_stamina": 80
+  },
+  "tropius": {
+    "base_attack": 136,
+    "base_defense": 165,
+    "base_stamina": 198
+  },
+  "chimecho": {
+    "base_attack": 175,
+    "base_defense": 174,
+    "base_stamina": 150
+  },
+  "absol": {
+    "base_attack": 246,
+    "base_defense": 120,
+    "base_stamina": 130
+  },
+  "wynaut": {
+    "base_attack": 41,
+    "base_defense": 86,
+    "base_stamina": 190
+  },
+  "snorunt": {
+    "base_attack": 95,
+    "base_defense": 95,
+    "base_stamina": 100
+  },
+  "glalie": {
+    "base_attack": 162,
+    "base_defense": 162,
+    "base_stamina": 160
+  },
+  "spheal": {
+    "base_attack": 95,
+    "base_defense": 90,
+    "base_stamina": 140
+  },
+  "sealeo": {
+    "base_attack": 137,
+    "base_defense": 132,
+    "base_stamina": 180
+  },
+  "walrein": {
+    "base_attack": 182,
+    "base_defense": 176,
+    "base_stamina": 220
+  },
+  "clamperl": {
+    "base_attack": 133,
+    "base_defense": 149,
+    "base_stamina": 70
+  },
+  "huntail": {
+    "base_attack": 197,
+    "base_defense": 194,
+    "base_stamina": 110
+  },
+  "gorebyss": {
+    "base_attack": 211,
+    "base_defense": 194,
+    "base_stamina": 110
+  },
+  "relicanth": {
+    "base_attack": 162,
+    "base_defense": 234,
+    "base_stamina": 200
+  },
+  "luvdisc": {
+    "base_attack": 81,
+    "base_defense": 134,
+    "base_stamina": 86
+  },
+  "bagon": {
+    "base_attack": 134,
+    "base_defense": 107,
+    "base_stamina": 90
+  },
+  "shelgon": {
+    "base_attack": 172,
+    "base_defense": 179,
+    "base_stamina": 130
+  },
+  "salamence": {
+    "base_attack": 277,
+    "base_defense": 168,
+    "base_stamina": 190
+  },
+  "beldum": {
+    "base_attack": 96,
+    "base_defense": 141,
+    "base_stamina": 80
+  },
+  "metang": {
+    "base_attack": 138,
+    "base_defense": 185,
+    "base_stamina": 120
+  },
+  "metagross": {
+    "base_attack": 257,
+    "base_defense": 247,
+    "base_stamina": 160
+  },
+  "regirock": {
+    "base_attack": 179,
+    "base_defense": 356,
+    "base_stamina": 160
+  },
+  "regice": {
+    "base_attack": 179,
+    "base_defense": 356,
+    "base_stamina": 160
+  },
+  "registeel": {
+    "base_attack": 143,
+    "base_defense": 285,
+    "base_stamina": 160
+  },
+  "latias": {
+    "base_attack": 228,
+    "base_defense": 268,
+    "base_stamina": 160
+  },
+  "latios": {
+    "base_attack": 268,
+    "base_defense": 228,
+    "base_stamina": 160
+  },
+  "kyogre": {
+    "base_attack": 270,
+    "base_defense": 251,
+    "base_stamina": 182
+  },
+  "groudon": {
+    "base_attack": 270,
+    "base_defense": 251,
+    "base_stamina": 182
+  },
+  "rayquaza": {
+    "base_attack": 284,
+    "base_defense": 170,
+    "base_stamina": 191
+  },
+  "jirachi": {
+    "base_attack": 210,
+    "base_defense": 210,
+    "base_stamina": 200
+  },
+  "deoxys-normal": {
+    "base_attack": 345,
+    "base_defense": 115,
+    "base_stamina": 100
+  },
+  "turtwig": {
+    "base_attack": 119,
+    "base_defense": 115,
+    "base_stamina": 110
+  },
+  "grotle": {
+    "base_attack": 157,
+    "base_defense": 152,
+    "base_stamina": 150
+  },
+  "torterra": {
+    "base_attack": 202,
+    "base_defense": 197,
+    "base_stamina": 190
+  },
+  "chimchar": {
+    "base_attack": 113,
+    "base_defense": 86,
+    "base_stamina": 88
+  },
+  "monferno": {
+    "base_attack": 158,
+    "base_defense": 105,
+    "base_stamina": 128
+  },
+  "infernape": {
+    "base_attack": 222,
+    "base_defense": 151,
+    "base_stamina": 152
+  },
+  "piplup": {
+    "base_attack": 112,
+    "base_defense": 103,
+    "base_stamina": 106
+  },
+  "prinplup": {
+    "base_attack": 150,
+    "base_defense": 142,
+    "base_stamina": 128
+  },
+  "empoleon": {
+    "base_attack": 210,
+    "base_defense": 193,
+    "base_stamina": 168
+  },
+  "starly": {
+    "base_attack": 101,
+    "base_defense": 58,
+    "base_stamina": 80
+  },
+  "staravia": {
+    "base_attack": 142,
+    "base_defense": 99,
+    "base_stamina": 110
+  },
+  "staraptor": {
+    "base_attack": 233,
+    "base_defense": 145,
+    "base_stamina": 170
+  },
+  "bidoof": {
+    "base_attack": 80,
+    "base_defense": 73,
+    "base_stamina": 118
+  },
+  "bibarel": {
+    "base_attack": 161,
+    "base_defense": 119,
+    "base_stamina": 158
+  },
+  "kricketot": {
+    "base_attack": 45,
+    "base_defense": 74,
+    "base_stamina": 74
+  },
+  "kricketune": {
+    "base_attack": 159,
+    "base_defense": 100,
+    "base_stamina": 154
+  },
+  "shinx": {
+    "base_attack": 117,
+    "base_defense": 64,
+    "base_stamina": 90
+  },
+  "luxio": {
+    "base_attack": 159,
+    "base_defense": 95,
+    "base_stamina": 120
+  },
+  "luxray": {
+    "base_attack": 232,
+    "base_defense": 156,
+    "base_stamina": 160
+  },
+  "budew": {
+    "base_attack": 91,
+    "base_defense": 126,
+    "base_stamina": 80
+  },
+  "roserade": {
+    "base_attack": 243,
+    "base_defense": 206,
+    "base_stamina": 120
+  },
+  "cranidos": {
+    "base_attack": 218,
+    "base_defense": 75,
+    "base_stamina": 134
+  },
+  "rampardos": {
+    "base_attack": 295,
+    "base_defense": 114,
+    "base_stamina": 194
+  },
+  "shieldon": {
+    "base_attack": 76,
+    "base_defense": 207,
+    "base_stamina": 60
+  },
+  "bastiodon": {
+    "base_attack": 94,
+    "base_defense": 298,
+    "base_stamina": 120
+  },
+  "burmy": {
+    "base_attack": 53,
+    "base_defense": 83,
+    "base_stamina": 80
+  },
+  "wormadam-plant": {
+    "base_attack": 141,
+    "base_defense": 189,
+    "base_stamina": 120
+  },
+  "mothim": {
+    "base_attack": 185,
+    "base_defense": 98,
+    "base_stamina": 140
+  },
+  "combee": {
+    "base_attack": 59,
+    "base_defense": 83,
+    "base_stamina": 60
+  },
+  "vespiquen": {
+    "base_attack": 149,
+    "base_defense": 190,
+    "base_stamina": 140
+  },
+  "pachirisu": {
+    "base_attack": 94,
+    "base_defense": 182,
+    "base_stamina": 120
+  },
+  "buizel": {
+    "base_attack": 132,
+    "base_defense": 70,
+    "base_stamina": 110
+  },
+  "floatzel": {
+    "base_attack": 221,
+    "base_defense": 118,
+    "base_stamina": 170
+  },
+  "cherubi": {
+    "base_attack": 108,
+    "base_defense": 96,
+    "base_stamina": 90
+  },
+  "cherrim": {
+    "base_attack": 170,
+    "base_defense": 157,
+    "base_stamina": 140
+  },
+  "shellos": {
+    "base_attack": 103,
+    "base_defense": 110,
+    "base_stamina": 152
+  },
+  "gastrodon": {
+    "base_attack": 169,
+    "base_defense": 148,
+    "base_stamina": 222
+  },
+  "ambipom": {
+    "base_attack": 205,
+    "base_defense": 143,
+    "base_stamina": 150
+  },
+  "drifloon": {
+    "base_attack": 117,
+    "base_defense": 85,
+    "base_stamina": 180
+  },
+  "drifblim": {
+    "base_attack": 180,
+    "base_defense": 107,
+    "base_stamina": 300
+  },
+  "buneary": {
+    "base_attack": 129,
+    "base_defense": 111,
+    "base_stamina": 110
+  },
+  "lopunny": {
+    "base_attack": 155,
+    "base_defense": 200,
+    "base_stamina": 130
+  },
+  "mismagius": {
+    "base_attack": 211,
+    "base_defense": 211,
+    "base_stamina": 120
+  },
+  "honchkrow": {
+    "base_attack": 243,
+    "base_defense": 103,
+    "base_stamina": 200
+  },
+  "glameow": {
+    "base_attack": 109,
+    "base_defense": 85,
+    "base_stamina": 98
+  },
+  "purugly": {
+    "base_attack": 172,
+    "base_defense": 136,
+    "base_stamina": 142
+  },
+  "chingling": {
+    "base_attack": 114,
+    "base_defense": 94,
+    "base_stamina": 90
+  },
+  "stunky": {
+    "base_attack": 120,
+    "base_defense": 92,
+    "base_stamina": 126
+  },
+  "skuntank": {
+    "base_attack": 183,
+    "base_defense": 134,
+    "base_stamina": 206
+  },
+  "bronzor": {
+    "base_attack": 43,
+    "base_defense": 154,
+    "base_stamina": 114
+  },
+  "bronzong": {
+    "base_attack": 161,
+    "base_defense": 213,
+    "base_stamina": 134
+  },
+  "bonsly": {
+    "base_attack": 124,
+    "base_defense": 155,
+    "base_stamina": 100
+  },
+  "mime-jr": {
+    "base_attack": 125,
+    "base_defense": 164,
+    "base_stamina": 40
+  },
+  "happiny": {
+    "base_attack": 25,
+    "base_defense": 105,
+    "base_stamina": 200
+  },
+  "chatot": {
+    "base_attack": 183,
+    "base_defense": 92,
+    "base_stamina": 152
+  },
+  "spiritomb": {
+    "base_attack": 169,
+    "base_defense": 199,
+    "base_stamina": 100
+  },
+  "gible": {
+    "base_attack": 123,
+    "base_defense": 84,
+    "base_stamina": 116
+  },
+  "gabite": {
+    "base_attack": 172,
+    "base_defense": 130,
+    "base_stamina": 136
+  },
+  "garchomp": {
+    "base_attack": 261,
+    "base_defense": 198,
+    "base_stamina": 216
+  },
+  "munchlax": {
+    "base_attack": 137,
+    "base_defense": 137,
+    "base_stamina": 270
+  },
+  "riolu": {
+    "base_attack": 127,
+    "base_defense": 78,
+    "base_stamina": 80
+  },
+  "lucario": {
+    "base_attack": 236,
+    "base_defense": 144,
+    "base_stamina": 140
+  },
+  "hippopotas": {
+    "base_attack": 124,
+    "base_defense": 134,
+    "base_stamina": 136
+  },
+  "hippowdon": {
+    "base_attack": 201,
+    "base_defense": 211,
+    "base_stamina": 216
+  },
+  "skorupi": {
+    "base_attack": 93,
+    "base_defense": 168,
+    "base_stamina": 80
+  },
+  "drapion": {
+    "base_attack": 179,
+    "base_defense": 219,
+    "base_stamina": 140
+  },
+  "croagunk": {
+    "base_attack": 116,
+    "base_defense": 76,
+    "base_stamina": 96
+  },
+  "toxicroak": {
+    "base_attack": 211,
+    "base_defense": 133,
+    "base_stamina": 166
+  },
+  "carnivine": {
+    "base_attack": 187,
+    "base_defense": 136,
+    "base_stamina": 148
+  },
+  "finneon": {
+    "base_attack": 96,
+    "base_defense": 119,
+    "base_stamina": 98
+  },
+  "lumineon": {
+    "base_attack": 142,
+    "base_defense": 175,
+    "base_stamina": 138
+  },
+  "mantyke": {
+    "base_attack": 104,
+    "base_defense": 211,
+    "base_stamina": 90
+  },
+  "snover": {
+    "base_attack": 115,
+    "base_defense": 110,
+    "base_stamina": 120
+  },
+  "abomasnow": {
+    "base_attack": 178,
+    "base_defense": 163,
+    "base_stamina": 180
+  },
+  "weavile": {
+    "base_attack": 243,
+    "base_defense": 182,
+    "base_stamina": 140
+  },
+  "magnezone": {
+    "base_attack": 238,
+    "base_defense": 217,
+    "base_stamina": 140
+  },
+  "lickilicky": {
+    "base_attack": 161,
+    "base_defense": 180,
+    "base_stamina": 220
+  },
+  "rhyperior": {
+    "base_attack": 241,
+    "base_defense": 224,
+    "base_stamina": 230
+  },
+  "tangrowth": {
+    "base_attack": 207,
+    "base_defense": 219,
+    "base_stamina": 200
+  },
+  "electivire": {
+    "base_attack": 249,
+    "base_defense": 173,
+    "base_stamina": 150
+  },
+  "magmortar": {
+    "base_attack": 246,
+    "base_defense": 186,
+    "base_stamina": 150
+  },
+  "togekiss": {
+    "base_attack": 224,
+    "base_defense": 227,
+    "base_stamina": 170
+  },
+  "yanmega": {
+    "base_attack": 231,
+    "base_defense": 171,
+    "base_stamina": 172
+  },
+  "leafeon": {
+    "base_attack": 216,
+    "base_defense": 254,
+    "base_stamina": 130
+  },
+  "glaceon": {
+    "base_attack": 237,
+    "base_defense": 212,
+    "base_stamina": 130
+  },
+  "gliscor": {
+    "base_attack": 185,
+    "base_defense": 248,
+    "base_stamina": 150
+  },
+  "mamoswine": {
+    "base_attack": 247,
+    "base_defense": 157,
+    "base_stamina": 220
+  },
+  "porygon-z": {
+    "base_attack": 264,
+    "base_defense": 153,
+    "base_stamina": 170
+  },
+  "gallade": {
+    "base_attack": 237,
+    "base_defense": 220,
+    "base_stamina": 136
+  },
+  "probopass": {
+    "base_attack": 135,
+    "base_defense": 278,
+    "base_stamina": 120
+  },
+  "dusknoir": {
+    "base_attack": 180,
+    "base_defense": 254,
+    "base_stamina": 90
+  },
+  "froslass": {
+    "base_attack": 171,
+    "base_defense": 150,
+    "base_stamina": 140
+  },
+  "rotom": {
+    "base_attack": 185,
+    "base_defense": 159,
+    "base_stamina": 100
+  },
+  "uxie": {
+    "base_attack": 156,
+    "base_defense": 270,
+    "base_stamina": 150
+  },
+  "mesprit": {
+    "base_attack": 212,
+    "base_defense": 212,
+    "base_stamina": 160
+  },
+  "azelf": {
+    "base_attack": 270,
+    "base_defense": 151,
+    "base_stamina": 150
+  },
+  "dialga": {
+    "base_attack": 301,
+    "base_defense": 242,
+    "base_stamina": 200
+  },
+  "palkia": {
+    "base_attack": 307,
+    "base_defense": 247,
+    "base_stamina": 180
+  },
+  "heatran": {
+    "base_attack": 251,
+    "base_defense": 213,
+    "base_stamina": 182
+  },
+  "regigigas": {
+    "base_attack": 315,
+    "base_defense": 231,
+    "base_stamina": 220
+  },
+  "giratina-altered": {
+    "base_attack": 206,
+    "base_defense": 247,
+    "base_stamina": 300
+  },
+  "cresselia": {
+    "base_attack": 152,
+    "base_defense": 263,
+    "base_stamina": 240
+  },
+  "phione": {
+    "base_attack": 162,
+    "base_defense": 162,
+    "base_stamina": 160
+  },
+  "manaphy": {
+    "base_attack": 210,
+    "base_defense": 210,
+    "base_stamina": 200
+  },
+  "darkrai": {
+    "base_attack": 285,
+    "base_defense": 198,
+    "base_stamina": 140
+  },
+  "shaymin-land": {
+    "base_attack": 210,
+    "base_defense": 210,
+    "base_stamina": 200
+  },
+  "arceus": {
+    "base_attack": 262,
+    "base_defense": 262,
+    "base_stamina": 240
+  },
+  "victini": {
+    "base_attack": 210,
+    "base_defense": 210,
+    "base_stamina": 200
+  },
+  "snivy": {
+    "base_attack": 88,
+    "base_defense": 107,
+    "base_stamina": 90
+  },
+  "servine": {
+    "base_attack": 122,
+    "base_defense": 152,
+    "base_stamina": 120
+  },
+  "serperior": {
+    "base_attack": 161,
+    "base_defense": 204,
+    "base_stamina": 150
+  },
+  "tepig": {
+    "base_attack": 115,
+    "base_defense": 85,
+    "base_stamina": 130
+  },
+  "pignite": {
+    "base_attack": 173,
+    "base_defense": 106,
+    "base_stamina": 180
+  },
+  "emboar": {
+    "base_attack": 235,
+    "base_defense": 127,
+    "base_stamina": 220
+  },
+  "oshawott": {
+    "base_attack": 117,
+    "base_defense": 85,
+    "base_stamina": 110
+  },
+  "dewott": {
+    "base_attack": 159,
+    "base_defense": 116,
+    "base_stamina": 150
+  },
+  "samurott": {
+    "base_attack": 212,
+    "base_defense": 164,
+    "base_stamina": 190
+  },
+  "patrat": {
+    "base_attack": 98,
+    "base_defense": 73,
+    "base_stamina": 90
+  },
+  "watchog": {
+    "base_attack": 165,
+    "base_defense": 139,
+    "base_stamina": 120
+  },
+  "lillipup": {
+    "base_attack": 107,
+    "base_defense": 86,
+    "base_stamina": 90
+  },
+  "herdier": {
+    "base_attack": 145,
+    "base_defense": 126,
+    "base_stamina": 130
+  },
+  "stoutland": {
+    "base_attack": 206,
+    "base_defense": 182,
+    "base_stamina": 170
+  },
+  "purrloin": {
+    "base_attack": 98,
+    "base_defense": 73,
+    "base_stamina": 82
+  },
+  "liepard": {
+    "base_attack": 187,
+    "base_defense": 106,
+    "base_stamina": 128
+  },
+  "pansage": {
+    "base_attack": 104,
+    "base_defense": 94,
+    "base_stamina": 100
+  },
+  "simisage": {
+    "base_attack": 206,
+    "base_defense": 133,
+    "base_stamina": 150
+  },
+  "pansear": {
+    "base_attack": 104,
+    "base_defense": 94,
+    "base_stamina": 100
+  },
+  "simisear": {
+    "base_attack": 206,
+    "base_defense": 133,
+    "base_stamina": 150
+  },
+  "panpour": {
+    "base_attack": 104,
+    "base_defense": 94,
+    "base_stamina": 100
+  },
+  "simipour": {
+    "base_attack": 206,
+    "base_defense": 133,
+    "base_stamina": 150
+  },
+  "munna": {
+    "base_attack": 111,
+    "base_defense": 97,
+    "base_stamina": 152
+  },
+  "musharna": {
+    "base_attack": 183,
+    "base_defense": 171,
+    "base_stamina": 232
+  },
+  "pidove": {
+    "base_attack": 98,
+    "base_defense": 89,
+    "base_stamina": 100
+  },
+  "tranquill": {
+    "base_attack": 144,
+    "base_defense": 117,
+    "base_stamina": 124
+  },
+  "unfezant": {
+    "base_attack": 226,
+    "base_defense": 160,
+    "base_stamina": 160
+  },
+  "blitzle": {
+    "base_attack": 118,
+    "base_defense": 64,
+    "base_stamina": 90
+  },
+  "zebstrika": {
+    "base_attack": 211,
+    "base_defense": 136,
+    "base_stamina": 150
+  },
+  "roggenrola": {
+    "base_attack": 121,
+    "base_defense": 136,
+    "base_stamina": 110
+  },
+  "boldore": {
+    "base_attack": 174,
+    "base_defense": 173,
+    "base_stamina": 140
+  },
+  "gigalith": {
+    "base_attack": 226,
+    "base_defense": 223,
+    "base_stamina": 170
+  },
+  "woobat": {
+    "base_attack": 107,
+    "base_defense": 85,
+    "base_stamina": 130
+  },
+  "swoobat": {
+    "base_attack": 161,
+    "base_defense": 119,
+    "base_stamina": 134
+  },
+  "drilbur": {
+    "base_attack": 154,
+    "base_defense": 88,
+    "base_stamina": 120
+  },
+  "excadrill": {
+    "base_attack": 255,
+    "base_defense": 132,
+    "base_stamina": 220
+  },
+  "audino": {
+    "base_attack": 114,
+    "base_defense": 163,
+    "base_stamina": 206
+  },
+  "timburr": {
+    "base_attack": 134,
+    "base_defense": 97,
+    "base_stamina": 150
+  },
+  "gurdurr": {
+    "base_attack": 180,
+    "base_defense": 150,
+    "base_stamina": 170
+  },
+  "conkeldurr": {
+    "base_attack": 243,
+    "base_defense": 171,
+    "base_stamina": 210
+  },
+  "tympole": {
+    "base_attack": 98,
+    "base_defense": 78,
+    "base_stamina": 100
+  },
+  "palpitoad": {
+    "base_attack": 128,
+    "base_defense": 109,
+    "base_stamina": 150
+  },
+  "seismitoad": {
+    "base_attack": 188,
+    "base_defense": 150,
+    "base_stamina": 210
+  },
+  "throh": {
+    "base_attack": 171,
+    "base_defense": 160,
+    "base_stamina": 240
+  },
+  "sawk": {
+    "base_attack": 231,
+    "base_defense": 153,
+    "base_stamina": 150
+  },
+  "sewaddle": {
+    "base_attack": 96,
+    "base_defense": 129,
+    "base_stamina": 90
+  },
+  "swadloon": {
+    "base_attack": 115,
+    "base_defense": 166,
+    "base_stamina": 110
+  },
+  "leavanny": {
+    "base_attack": 205,
+    "base_defense": 165,
+    "base_stamina": 150
+  },
+  "venipede": {
+    "base_attack": 83,
+    "base_defense": 109,
+    "base_stamina": 60
+  },
+  "whirlipede": {
+    "base_attack": 100,
+    "base_defense": 182,
+    "base_stamina": 80
+  },
+  "scolipede": {
+    "base_attack": 203,
+    "base_defense": 186,
+    "base_stamina": 120
+  },
+  "cottonee": {
+    "base_attack": 71,
+    "base_defense": 116,
+    "base_stamina": 80
+  },
+  "whimsicott": {
+    "base_attack": 164,
+    "base_defense": 182,
+    "base_stamina": 120
+  },
+  "petilil": {
+    "base_attack": 119,
+    "base_defense": 91,
+    "base_stamina": 90
+  },
+  "lilligant": {
+    "base_attack": 214,
+    "base_defense": 154,
+    "base_stamina": 140
+  },
+  "basculin-red-striped": {
+    "base_attack": 189,
+    "base_defense": 134,
+    "base_stamina": 140
+  },
+  "sandile": {
+    "base_attack": 132,
+    "base_defense": 69,
+    "base_stamina": 100
+  },
+  "krokorok": {
+    "base_attack": 155,
+    "base_defense": 90,
+    "base_stamina": 120
+  },
+  "krookodile": {
+    "base_attack": 229,
+    "base_defense": 163,
+    "base_stamina": 190
+  },
+  "darumaka": {
+    "base_attack": 153,
+    "base_defense": 85,
+    "base_stamina": 140
+  },
+  "darmanitan-standard": {
+    "base_attack": 262,
+    "base_defense": 114,
+    "base_stamina": 210
+  },
+  "maractus": {
+    "base_attack": 201,
+    "base_defense": 130,
+    "base_stamina": 150
+  },
+  "dwebble": {
+    "base_attack": 117,
+    "base_defense": 152,
+    "base_stamina": 100
+  },
+  "crustle": {
+    "base_attack": 188,
+    "base_defense": 224,
+    "base_stamina": 140
+  },
+  "scraggy": {
+    "base_attack": 132,
+    "base_defense": 132,
+    "base_stamina": 100
+  },
+  "scrafty": {
+    "base_attack": 163,
+    "base_defense": 222,
+    "base_stamina": 130
+  },
+  "sigilyph": {
+    "base_attack": 204,
+    "base_defense": 167,
+    "base_stamina": 144
+  },
+  "yamask": {
+    "base_attack": 95,
+    "base_defense": 150,
+    "base_stamina": 76
+  },
+  "cofagrigus": {
+    "base_attack": 163,
+    "base_defense": 255,
+    "base_stamina": 116
+  },
+  "tirtouga": {
+    "base_attack": 134,
+    "base_defense": 172,
+    "base_stamina": 108
+  },
+  "carracosta": {
+    "base_attack": 192,
+    "base_defense": 228,
+    "base_stamina": 148
+  },
+  "archen": {
+    "base_attack": 212,
+    "base_defense": 89,
+    "base_stamina": 110
+  },
+  "archeops": {
+    "base_attack": 292,
+    "base_defense": 139,
+    "base_stamina": 150
+  },
+  "trubbish": {
+    "base_attack": 96,
+    "base_defense": 122,
+    "base_stamina": 100
+  },
+  "garbodor": {
+    "base_attack": 181,
+    "base_defense": 164,
+    "base_stamina": 160
+  },
+  "zorua": {
+    "base_attack": 153,
+    "base_defense": 78,
+    "base_stamina": 80
+  },
+  "zoroark": {
+    "base_attack": 250,
+    "base_defense": 127,
+    "base_stamina": 120
+  },
+  "minccino": {
+    "base_attack": 98,
+    "base_defense": 80,
+    "base_stamina": 110
+  },
+  "cinccino": {
+    "base_attack": 197,
+    "base_defense": 130,
+    "base_stamina": 150
+  },
+  "gothita": {
+    "base_attack": 98,
+    "base_defense": 118,
+    "base_stamina": 90
+  },
+  "gothorita": {
+    "base_attack": 136,
+    "base_defense": 159,
+    "base_stamina": 120
+  },
+  "gothitelle": {
+    "base_attack": 176,
+    "base_defense": 212,
+    "base_stamina": 140
+  },
+  "solosis": {
+    "base_attack": 170,
+    "base_defense": 87,
+    "base_stamina": 90
+  },
+  "duosion": {
+    "base_attack": 208,
+    "base_defense": 107,
+    "base_stamina": 130
+  },
+  "reuniclus": {
+    "base_attack": 214,
+    "base_defense": 153,
+    "base_stamina": 220
+  },
+  "ducklett": {
+    "base_attack": 84,
+    "base_defense": 96,
+    "base_stamina": 124
+  },
+  "swanna": {
+    "base_attack": 182,
+    "base_defense": 132,
+    "base_stamina": 150
+  },
+  "vanillite": {
+    "base_attack": 118,
+    "base_defense": 111,
+    "base_stamina": 72
+  },
+  "vanillish": {
+    "base_attack": 151,
+    "base_defense": 143,
+    "base_stamina": 102
+  },
+  "vanilluxe": {
+    "base_attack": 218,
+    "base_defense": 190,
+    "base_stamina": 142
+  },
+  "deerling": {
+    "base_attack": 115,
+    "base_defense": 100,
+    "base_stamina": 120
+  },
+  "sawsbuck": {
+    "base_attack": 198,
+    "base_defense": 146,
+    "base_stamina": 160
+  },
+  "emolga": {
+    "base_attack": 158,
+    "base_defense": 127,
+    "base_stamina": 110
+  },
+  "karrablast": {
+    "base_attack": 137,
+    "base_defense": 87,
+    "base_stamina": 100
+  },
+  "escavalier": {
+    "base_attack": 223,
+    "base_defense": 187,
+    "base_stamina": 140
+  },
+  "foongus": {
+    "base_attack": 97,
+    "base_defense": 95,
+    "base_stamina": 138
+  },
+  "amoonguss": {
+    "base_attack": 155,
+    "base_defense": 144,
+    "base_stamina": 228
+  },
+  "frillish": {
+    "base_attack": 115,
+    "base_defense": 150,
+    "base_stamina": 110
+  },
+  "jellicent": {
+    "base_attack": 159,
+    "base_defense": 195,
+    "base_stamina": 200
+  },
+  "alomomola": {
+    "base_attack": 138,
+    "base_defense": 148,
+    "base_stamina": 330
+  },
+  "joltik": {
+    "base_attack": 110,
+    "base_defense": 98,
+    "base_stamina": 100
+  },
+  "galvantula": {
+    "base_attack": 201,
+    "base_defense": 128,
+    "base_stamina": 140
+  },
+  "ferroseed": {
+    "base_attack": 82,
+    "base_defense": 157,
+    "base_stamina": 88
+  },
+  "ferrothorn": {
+    "base_attack": 158,
+    "base_defense": 230,
+    "base_stamina": 148
+  },
+  "klink": {
+    "base_attack": 98,
+    "base_defense": 126,
+    "base_stamina": 80
+  },
+  "klang": {
+    "base_attack": 150,
+    "base_defense": 179,
+    "base_stamina": 120
+  },
+  "klinklang": {
+    "base_attack": 198,
+    "base_defense": 229,
+    "base_stamina": 120
+  },
+  "tynamo": {
+    "base_attack": 105,
+    "base_defense": 78,
+    "base_stamina": 70
+  },
+  "eelektrik": {
+    "base_attack": 156,
+    "base_defense": 130,
+    "base_stamina": 130
+  },
+  "eelektross": {
+    "base_attack": 217,
+    "base_defense": 152,
+    "base_stamina": 170
+  },
+  "elgyem": {
+    "base_attack": 147,
+    "base_defense": 100,
+    "base_stamina": 110
+  },
+  "beheeyem": {
+    "base_attack": 221,
+    "base_defense": 172,
+    "base_stamina": 150
+  },
+  "litwick": {
+    "base_attack": 108,
+    "base_defense": 98,
+    "base_stamina": 100
+  },
+  "lampent": {
+    "base_attack": 169,
+    "base_defense": 115,
+    "base_stamina": 120
+  },
+  "chandelure": {
+    "base_attack": 271,
+    "base_defense": 182,
+    "base_stamina": 120
+  },
+  "axew": {
+    "base_attack": 154,
+    "base_defense": 111,
+    "base_stamina": 92
+  },
+  "fraxure": {
+    "base_attack": 212,
+    "base_defense": 133,
+    "base_stamina": 132
+  },
+  "haxorus": {
+    "base_attack": 284,
+    "base_defense": 183,
+    "base_stamina": 152
+  },
+  "cubchoo": {
+    "base_attack": 128,
+    "base_defense": 74,
+    "base_stamina": 110
+  },
+  "beartic": {
+    "base_attack": 233,
+    "base_defense": 152,
+    "base_stamina": 190
+  },
+  "cryogonal": {
+    "base_attack": 190,
+    "base_defense": 264,
+    "base_stamina": 160
+  },
+  "shelmet": {
+    "base_attack": 72,
+    "base_defense": 148,
+    "base_stamina": 100
+  },
+  "accelgor": {
+    "base_attack": 219,
+    "base_defense": 131,
+    "base_stamina": 160
+  },
+  "stunfisk": {
+    "base_attack": 144,
+    "base_defense": 177,
+    "base_stamina": 218
+  },
+  "mienfoo": {
+    "base_attack": 159,
+    "base_defense": 98,
+    "base_stamina": 90
+  },
+  "mienshao": {
+    "base_attack": 257,
+    "base_defense": 127,
+    "base_stamina": 130
+  },
+  "druddigon": {
+    "base_attack": 213,
+    "base_defense": 170,
+    "base_stamina": 154
+  },
+  "golett": {
+    "base_attack": 127,
+    "base_defense": 92,
+    "base_stamina": 118
+  },
+  "golurk": {
+    "base_attack": 222,
+    "base_defense": 154,
+    "base_stamina": 178
+  },
+  "pawniard": {
+    "base_attack": 154,
+    "base_defense": 128,
+    "base_stamina": 90
+  },
+  "bisharp": {
+    "base_attack": 232,
+    "base_defense": 190,
+    "base_stamina": 130
+  },
+  "bouffalant": {
+    "base_attack": 194,
+    "base_defense": 182,
+    "base_stamina": 190
+  },
+  "rufflet": {
+    "base_attack": 149,
+    "base_defense": 97,
+    "base_stamina": 140
+  },
+  "braviary": {
+    "base_attack": 232,
+    "base_defense": 151,
+    "base_stamina": 200
+  },
+  "vullaby": {
+    "base_attack": 105,
+    "base_defense": 144,
+    "base_stamina": 140
+  },
+  "mandibuzz": {
+    "base_attack": 129,
+    "base_defense": 210,
+    "base_stamina": 220
+  },
+  "heatmor": {
+    "base_attack": 204,
+    "base_defense": 129,
+    "base_stamina": 170
+  },
+  "durant": {
+    "base_attack": 217,
+    "base_defense": 222,
+    "base_stamina": 116
+  },
+  "deino": {
+    "base_attack": 116,
+    "base_defense": 93,
+    "base_stamina": 104
+  },
+  "zweilous": {
+    "base_attack": 159,
+    "base_defense": 135,
+    "base_stamina": 144
+  },
+  "hydreigon": {
+    "base_attack": 256,
+    "base_defense": 188,
+    "base_stamina": 184
+  },
+  "larvesta": {
+    "base_attack": 156,
+    "base_defense": 107,
+    "base_stamina": 110
+  },
+  "volcarona": {
+    "base_attack": 264,
+    "base_defense": 210,
+    "base_stamina": 170
+  },
+  "cobalion": {
+    "base_attack": 192,
+    "base_defense": 260,
+    "base_stamina": 182
+  },
+  "terrakion": {
+    "base_attack": 260,
+    "base_defense": 192,
+    "base_stamina": 182
+  },
+  "virizion": {
+    "base_attack": 192,
+    "base_defense": 260,
+    "base_stamina": 182
+  },
+  "tornadus-incarnate": {
+    "base_attack": 266,
+    "base_defense": 169,
+    "base_stamina": 158
+  },
+  "thundurus-incarnate": {
+    "base_attack": 266,
+    "base_defense": 169,
+    "base_stamina": 158
+  },
+  "reshiram": {
+    "base_attack": 301,
+    "base_defense": 242,
+    "base_stamina": 200
+  },
+  "zekrom": {
+    "base_attack": 301,
+    "base_defense": 242,
+    "base_stamina": 200
+  },
+  "landorus-incarnate": {
+    "base_attack": 261,
+    "base_defense": 187,
+    "base_stamina": 178
+  },
+  "kyurem": {
+    "base_attack": 270,
+    "base_defense": 187,
+    "base_stamina": 250
+  },
+  "keldeo-ordinary": {
+    "base_attack": 260,
+    "base_defense": 192,
+    "base_stamina": 182
+  },
+  "meloetta-aria": {
+    "base_attack": 250,
+    "base_defense": 250,
+    "base_stamina": 200
+  },
+  "genesect": {
+    "base_attack": 252,
+    "base_defense": 199,
+    "base_stamina": 142
+  },
+  "chespin": {
+    "base_attack": 110,
+    "base_defense": 116,
+    "base_stamina": 112
+  },
+  "quilladin": {
+    "base_attack": 145,
+    "base_defense": 174,
+    "base_stamina": 122
+  },
+  "chesnaught": {
+    "base_attack": 201,
+    "base_defense": 227,
+    "base_stamina": 176
+  },
+  "fennekin": {
+    "base_attack": 116,
+    "base_defense": 112,
+    "base_stamina": 80
+  },
+  "braixen": {
+    "base_attack": 171,
+    "base_defense": 136,
+    "base_stamina": 118
+  },
+  "delphox": {
+    "base_attack": 230,
+    "base_defense": 204,
+    "base_stamina": 150
+  },
+  "froakie": {
+    "base_attack": 121,
+    "base_defense": 86,
+    "base_stamina": 82
+  },
+  "frogadier": {
+    "base_attack": 168,
+    "base_defense": 116,
+    "base_stamina": 108
+  },
+  "greninja": {
+    "base_attack": 223,
+    "base_defense": 154,
+    "base_stamina": 144
+  },
+  "bunnelby": {
+    "base_attack": 68,
+    "base_defense": 73,
+    "base_stamina": 76
+  },
+  "diggersby": {
+    "base_attack": 111,
+    "base_defense": 155,
+    "base_stamina": 170
+  },
+  "fletchling": {
+    "base_attack": 95,
+    "base_defense": 83,
+    "base_stamina": 90
+  },
+  "fletchinder": {
+    "base_attack": 145,
+    "base_defense": 111,
+    "base_stamina": 124
+  },
+  "talonflame": {
+    "base_attack": 176,
+    "base_defense": 156,
+    "base_stamina": 156
+  },
+  "scatterbug": {
+    "base_attack": 63,
+    "base_defense": 70,
+    "base_stamina": 76
+  },
+  "spewpa": {
+    "base_attack": 48,
+    "base_defense": 102,
+    "base_stamina": 90
+  },
+  "vivillon": {
+    "base_attack": 175,
+    "base_defense": 103,
+    "base_stamina": 160
+  },
+  "litleo": {
+    "base_attack": 139,
+    "base_defense": 114,
+    "base_stamina": 124
+  },
+  "pyroar": {
+    "base_attack": 221,
+    "base_defense": 151,
+    "base_stamina": 172
+  },
+  "flabebe": {
+    "base_attack": 108,
+    "base_defense": 138,
+    "base_stamina": 88
+  },
+  "floette": {
+    "base_attack": 135,
+    "base_defense": 175,
+    "base_stamina": 108
+  },
+  "florges": {
+    "base_attack": 212,
+    "base_defense": 286,
+    "base_stamina": 156
+  },
+  "skiddo": {
+    "base_attack": 123,
+    "base_defense": 107,
+    "base_stamina": 132
+  },
+  "gogoat": {
+    "base_attack": 196,
+    "base_defense": 155,
+    "base_stamina": 246
+  },
+  "pancham": {
+    "base_attack": 145,
+    "base_defense": 112,
+    "base_stamina": 134
+  },
+  "pangoro": {
+    "base_attack": 226,
+    "base_defense": 149,
+    "base_stamina": 190
+  },
+  "furfrou": {
+    "base_attack": 164,
+    "base_defense": 181,
+    "base_stamina": 150
+  },
+  "espurr": {
+    "base_attack": 120,
+    "base_defense": 116,
+    "base_stamina": 124
+  },
+  "meowstic-male": {
+    "base_attack": 166,
+    "base_defense": 170,
+    "base_stamina": 148
+  },
+  "honedge": {
+    "base_attack": 135,
+    "base_defense": 167,
+    "base_stamina": 90
+  },
+  "doublade": {
+    "base_attack": 188,
+    "base_defense": 253,
+    "base_stamina": 118
+  },
+  "aegislash-shield": {
+    "base_attack": 97,
+    "base_defense": 291,
+    "base_stamina": 120
+  },
+  "spritzee": {
+    "base_attack": 110,
+    "base_defense": 116,
+    "base_stamina": 156
+  },
+  "aromatisse": {
+    "base_attack": 173,
+    "base_defense": 158,
+    "base_stamina": 202
+  },
+  "swirlix": {
+    "base_attack": 109,
+    "base_defense": 123,
+    "base_stamina": 124
+  },
+  "slurpuff": {
+    "base_attack": 168,
+    "base_defense": 168,
+    "base_stamina": 164
+  },
+  "inkay": {
+    "base_attack": 98,
+    "base_defense": 98,
+    "base_stamina": 106
+  },
+  "malamar": {
+    "base_attack": 177,
+    "base_defense": 172,
+    "base_stamina": 172
+  },
+  "binacle": {
+    "base_attack": 96,
+    "base_defense": 124,
+    "base_stamina": 84
+  },
+  "barbaracle": {
+    "base_attack": 194,
+    "base_defense": 220,
+    "base_stamina": 144
+  },
+  "skrelp": {
+    "base_attack": 109,
+    "base_defense": 109,
+    "base_stamina": 100
+  },
+  "dragalge": {
+    "base_attack": 176,
+    "base_defense": 223,
+    "base_stamina": 130
+  },
+  "clauncher": {
+    "base_attack": 108,
+    "base_defense": 118,
+    "base_stamina": 100
+  },
+  "clawitzer": {
+    "base_attack": 221,
+    "base_defense": 172,
+    "base_stamina": 142
+  },
+  "helioptile": {
+    "base_attack": 115,
+    "base_defense": 83,
+    "base_stamina": 88
+  },
+  "heliolisk": {
+    "base_attack": 218,
+    "base_defense": 190,
+    "base_stamina": 124
+  },
+  "tyrunt": {
+    "base_attack": 158,
+    "base_defense": 138,
+    "base_stamina": 116
+  },
+  "tyrantrum": {
+    "base_attack": 227,
+    "base_defense": 221,
+    "base_stamina": 164
+  },
+  "amaura": {
+    "base_attack": 124,
+    "base_defense": 116,
+    "base_stamina": 154
+  },
+  "aurorus": {
+    "base_attack": 185,
+    "base_defense": 173,
+    "base_stamina": 246
+  },
+  "sylveon": {
+    "base_attack": 203,
+    "base_defense": 237,
+    "base_stamina": 190
+  },
+  "hawlucha": {
+    "base_attack": 195,
+    "base_defense": 160,
+    "base_stamina": 156
+  },
+  "dedenne": {
+    "base_attack": 164,
+    "base_defense": 139,
+    "base_stamina": 134
+  },
+  "carbink": {
+    "base_attack": 95,
+    "base_defense": 285,
+    "base_stamina": 100
+  },
+  "goomy": {
+    "base_attack": 101,
+    "base_defense": 130,
+    "base_stamina": 90
+  },
+  "sliggoo": {
+    "base_attack": 159,
+    "base_defense": 205,
+    "base_stamina": 136
+  },
+  "goodra": {
+    "base_attack": 220,
+    "base_defense": 283,
+    "base_stamina": 180
+  },
+  "klefki": {
+    "base_attack": 160,
+    "base_defense": 181,
+    "base_stamina": 114
+  },
+  "phantump": {
+    "base_attack": 125,
+    "base_defense": 108,
+    "base_stamina": 86
+  },
+  "trevenant": {
+    "base_attack": 201,
+    "base_defense": 156,
+    "base_stamina": 170
+  },
+  "pumpkaboo-average": {
+    "base_attack": 120,
+    "base_defense": 129,
+    "base_stamina": 98
+  },
+  "gourgeist-average": {
+    "base_attack": 175,
+    "base_defense": 236,
+    "base_stamina": 130
+  },
+  "bergmite": {
+    "base_attack": 117,
+    "base_defense": 143,
+    "base_stamina": 110
+  },
+  "avalugg": {
+    "base_attack": 196,
+    "base_defense": 303,
+    "base_stamina": 190
+  },
+  "noibat": {
+    "base_attack": 83,
+    "base_defense": 76,
+    "base_stamina": 80
+  },
+  "noivern": {
+    "base_attack": 205,
+    "base_defense": 175,
+    "base_stamina": 170
+  },
+  "xerneas": {
+    "base_attack": 275,
+    "base_defense": 204,
+    "base_stamina": 252
+  },
+  "yveltal": {
+    "base_attack": 275,
+    "base_defense": 204,
+    "base_stamina": 252
+  },
+  "zygarde": {
+    "base_attack": 203,
+    "base_defense": 245,
+    "base_stamina": 216
+  },
+  "diancie": {
+    "base_attack": 190,
+    "base_defense": 285,
+    "base_stamina": 100
+  },
+  "hoopa": {
+    "base_attack": 287,
+    "base_defense": 240,
+    "base_stamina": 160
+  },
+  "volcanion": {
+    "base_attack": 252,
+    "base_defense": 230,
+    "base_stamina": 160
+  },
+  "deoxys-attack": {
+    "base_attack": 414,
+    "base_defense": 46,
+    "base_stamina": 100
+  },
+  "deoxys-defense": {
+    "base_attack": 144,
+    "base_defense": 330,
+    "base_stamina": 100
+  },
+  "deoxys-speed": {
+    "base_attack": 230,
+    "base_defense": 218,
+    "base_stamina": 100
+  },
+  "wormadam-sandy": {
+    "base_attack": 141,
+    "base_defense": 189,
+    "base_stamina": 120
+  },
+  "wormadam-trash": {
+    "base_attack": 127,
+    "base_defense": 175,
+    "base_stamina": 120
+  },
+  "shaymin-sky": {
+    "base_attack": 261,
+    "base_defense": 166,
+    "base_stamina": 200
+  },
+  "giratina-origin": {
+    "base_attack": 247,
+    "base_defense": 206,
+    "base_stamina": 300
+  },
+  "rotom-heat": {
+    "base_attack": 204,
+    "base_defense": 219,
+    "base_stamina": 100
+  },
+  "rotom-wash": {
+    "base_attack": 204,
+    "base_defense": 219,
+    "base_stamina": 100
+  },
+  "rotom-frost": {
+    "base_attack": 204,
+    "base_defense": 219,
+    "base_stamina": 100
+  },
+  "rotom-fan": {
+    "base_attack": 204,
+    "base_defense": 219,
+    "base_stamina": 100
+  },
+  "rotom-mow": {
+    "base_attack": 204,
+    "base_defense": 219,
+    "base_stamina": 100
+  },
+  "castform-sunny": {
+    "base_attack": 139,
+    "base_defense": 139,
+    "base_stamina": 140
+  },
+  "castform-rainy": {
+    "base_attack": 139,
+    "base_defense": 139,
+    "base_stamina": 140
+  },
+  "castform-snowy": {
+    "base_attack": 139,
+    "base_defense": 139,
+    "base_stamina": 140
+  },
+  "basculin-blue-striped": {
+    "base_attack": 189,
+    "base_defense": 134,
+    "base_stamina": 140
+  },
+  "darmanitan-zen": {
+    "base_attack": 242,
+    "base_defense": 202,
+    "base_stamina": 210
+  },
+  "meloetta-pirouette": {
+    "base_attack": 269,
+    "base_defense": 196,
+    "base_stamina": 200
+  },
+  "tornadus-therian": {
+    "base_attack": 238,
+    "base_defense": 194,
+    "base_stamina": 158
+  },
+  "thundurus-therian": {
+    "base_attack": 295,
+    "base_defense": 166,
+    "base_stamina": 158
+  },
+  "landorus-therian": {
+    "base_attack": 289,
+    "base_defense": 184,
+    "base_stamina": 178
+  },
+  "kyurem-black": {
+    "base_attack": 341,
+    "base_defense": 206,
+    "base_stamina": 250
+  },
+  "kyurem-white": {
+    "base_attack": 341,
+    "base_defense": 206,
+    "base_stamina": 250
+  },
+  "keldeo-resolute": {
+    "base_attack": 260,
+    "base_defense": 192,
+    "base_stamina": 182
+  },
+  "meowstic-female": {
+    "base_attack": 166,
+    "base_defense": 170,
+    "base_stamina": 148
+  },
+  "aegislash-blade": {
+    "base_attack": 291,
+    "base_defense": 97,
+    "base_stamina": 120
+  },
+  "pumpkaboo-small": {
+    "base_attack": 121,
+    "base_defense": 131,
+    "base_stamina": 88
+  },
+  "pumpkaboo-large": {
+    "base_attack": 119,
+    "base_defense": 128,
+    "base_stamina": 108
+  },
+  "pumpkaboo-super": {
+    "base_attack": 117,
+    "base_defense": 127,
+    "base_stamina": 118
+  },
+  "gourgeist-small": {
+    "base_attack": 171,
+    "base_defense": 243,
+    "base_stamina": 110
+  },
+  "gourgeist-large": {
+    "base_attack": 179,
+    "base_defense": 229,
+    "base_stamina": 150
+  },
+  "gourgeist-super": {
+    "base_attack": 182,
+    "base_defense": 222,
+    "base_stamina": 170
+  },
+  "venusaur-mega": {
+    "base_attack": 240,
+    "base_defense": 247,
+    "base_stamina": 160
+  },
+  "charizard-mega-x": {
+    "base_attack": 273,
+    "base_defense": 227,
+    "base_stamina": 156
+  },
+  "charizard-mega-y": {
+    "base_attack": 319,
+    "base_defense": 232,
+    "base_stamina": 156
+  },
+  "blastoise-mega": {
+    "base_attack": 264,
+    "base_defense": 240,
+    "base_stamina": 158
+  },
+  "alakazam-mega": {
+    "base_attack": 367,
+    "base_defense": 209,
+    "base_stamina": 110
+  },
+  "gengar-mega": {
+    "base_attack": 349,
+    "base_defense": 206,
+    "base_stamina": 120
+  },
+  "kangaskhan-mega": {
+    "base_attack": 246,
+    "base_defense": 210,
+    "base_stamina": 210
+  },
+  "pinsir-mega": {
+    "base_attack": 305,
+    "base_defense": 246,
+    "base_stamina": 130
+  },
+  "gyarados-mega": {
+    "base_attack": 292,
+    "base_defense": 258,
+    "base_stamina": 190
+  },
+  "aerodactyl-mega": {
+    "base_attack": 292,
+    "base_defense": 216,
+    "base_stamina": 160
+  },
+  "mewtwo-mega-x": {
+    "base_attack": 412,
+    "base_defense": 222,
+    "base_stamina": 212
+  },
+  "mewtwo-mega-y": {
+    "base_attack": 426,
+    "base_defense": 258,
+    "base_stamina": 212
+  },
+  "ampharos-mega": {
+    "base_attack": 293,
+    "base_defense": 206,
+    "base_stamina": 180
+  },
+  "scizor-mega": {
+    "base_attack": 279,
+    "base_defense": 270,
+    "base_stamina": 140
+  },
+  "heracross-mega": {
+    "base_attack": 334,
+    "base_defense": 228,
+    "base_stamina": 160
+  },
+  "houndoom-mega": {
+    "base_attack": 289,
+    "base_defense": 194,
+    "base_stamina": 150
+  },
+  "tyranitar-mega": {
+    "base_attack": 309,
+    "base_defense": 290,
+    "base_stamina": 200
+  },
+  "blaziken-mega": {
+    "base_attack": 328,
+    "base_defense": 168,
+    "base_stamina": 160
+  },
+  "gardevoir-mega": {
+    "base_attack": 325,
+    "base_defense": 265,
+    "base_stamina": 136
+  },
+  "mawile-mega": {
+    "base_attack": 188,
+    "base_defense": 230,
+    "base_stamina": 100
+  },
+  "aggron-mega": {
+    "base_attack": 247,
+    "base_defense": 401,
+    "base_stamina": 140
+  },
+  "medicham-mega": {
+    "base_attack": 205,
+    "base_defense": 178,
+    "base_stamina": 120
+  },
+  "manectric-mega": {
+    "base_attack": 286,
+    "base_defense": 179,
+    "base_stamina": 140
+  },
+  "banette-mega": {
+    "base_attack": 312,
+    "base_defense": 164,
+    "base_stamina": 128
+  },
+  "absol-mega": {
+    "base_attack": 314,
+    "base_defense": 130,
+    "base_stamina": 130
+  },
+  "garchomp-mega": {
+    "base_attack": 339,
+    "base_defense": 233,
+    "base_stamina": 216
+  },
+  "lucario-mega": {
+    "base_attack": 310,
+    "base_defense": 185,
+    "base_stamina": 140
+  },
+  "abomasnow-mega": {
+    "base_attack": 240,
+    "base_defense": 191,
+    "base_stamina": 180
+  },
+  "floette-eternal": {
+    "base_attack": 243,
+    "base_defense": 249,
+    "base_stamina": 148
+  },
+  "latias-mega": {
+    "base_attack": 289,
+    "base_defense": 312,
+    "base_stamina": 160
+  },
+  "latios-mega": {
+    "base_attack": 334,
+    "base_defense": 251,
+    "base_stamina": 160
+  },
+  "swampert-mega": {
+    "base_attack": 283,
+    "base_defense": 218,
+    "base_stamina": 200
+  },
+  "sceptile-mega": {
+    "base_attack": 320,
+    "base_defense": 192,
+    "base_stamina": 140
+  },
+  "sableye-mega": {
+    "base_attack": 151,
+    "base_defense": 221,
+    "base_stamina": 100
+  },
+  "altaria-mega": {
+    "base_attack": 222,
+    "base_defense": 221,
+    "base_stamina": 150
+  },
+  "gallade-mega": {
+    "base_attack": 326,
+    "base_defense": 241,
+    "base_stamina": 136
+  },
+  "audino-mega": {
+    "base_attack": 147,
+    "base_defense": 239,
+    "base_stamina": 206
+  },
+  "sharpedo-mega": {
+    "base_attack": 288,
+    "base_defense": 147,
+    "base_stamina": 140
+  },
+  "slowbro-mega": {
+    "base_attack": 224,
+    "base_defense": 305,
+    "base_stamina": 190
+  },
+  "steelix-mega": {
+    "base_attack": 211,
+    "base_defense": 388,
+    "base_stamina": 150
+  },
+  "pidgeot-mega": {
+    "base_attack": 280,
+    "base_defense": 175,
+    "base_stamina": 166
+  },
+  "glalie-mega": {
+    "base_attack": 252,
+    "base_defense": 168,
+    "base_stamina": 160
+  },
+  "diancie-mega": {
+    "base_attack": 342,
+    "base_defense": 235,
+    "base_stamina": 100
+  },
+  "metagross-mega": {
+    "base_attack": 300,
+    "base_defense": 310,
+    "base_stamina": 160
+  },
+  "kyogre-primal": {
+    "base_attack": 363,
+    "base_defense": 311,
+    "base_stamina": 200
+  },
+  "groudon-primal": {
+    "base_attack": 363,
+    "base_defense": 311,
+    "base_stamina": 200
+  },
+  "rayquaza-mega": {
+    "base_attack": 389,
+    "base_defense": 216,
+    "base_stamina": 210
+  },
+  "pikachu-rock-star": {
+    "base_attack": 112,
+    "base_defense": 101,
+    "base_stamina": 70
+  },
+  "pikachu-belle": {
+    "base_attack": 112,
+    "base_defense": 101,
+    "base_stamina": 70
+  },
+  "pikachu-pop-star": {
+    "base_attack": 112,
+    "base_defense": 101,
+    "base_stamina": 70
+  },
+  "pikachu-phd": {
+    "base_attack": 112,
+    "base_defense": 101,
+    "base_stamina": 70
+  },
+  "pikachu-libre": {
+    "base_attack": 112,
+    "base_defense": 101,
+    "base_stamina": 70
+  },
+  "pikachu-cosplay": {
+    "base_attack": 112,
+    "base_defense": 101,
+    "base_stamina": 70
+  },
+  "hoopa-unbound": {
+    "base_attack": 341,
+    "base_defense": 244,
+    "base_stamina": 160
+  },
+  "camerupt-mega": {
+    "base_attack": 253,
+    "base_defense": 186,
+    "base_stamina": 140
+  },
+  "lopunny-mega": {
+    "base_attack": 282,
+    "base_defense": 215,
+    "base_stamina": 130
+  },
+  "salamence-mega": {
+    "base_attack": 310,
+    "base_defense": 273,
+    "base_stamina": 190
+  },
+  "beedrill-mega": {
+    "base_attack": 303,
+    "base_defense": 171,
+    "base_stamina": 130
+  }
+}
