@@ -310,8 +310,8 @@
     "base_stamina": 140
   },
   "alolan-diglett": {
-    "base_attack": 108,
-    "base_defense": 89,
+    "base_attack": 109,
+    "base_defense": 88,
     "base_stamina": 20
   },
   "diglett": {
@@ -2384,12 +2384,12 @@
     "base_defense": 180,
     "base_stamina": 155
   },
-  "wormadam-trash": {
+  "wormadam-sandy": {
     "base_attack": 141,
     "base_defense": 180,
     "base_stamina": 155
   },
-  "wormadam-sandy": {
+  "wormadam-trash": {
     "base_attack": 127,
     "base_defense": 175,
     "base_stamina": 155
@@ -2840,13 +2840,13 @@
     "base_stamina": 172
   },
   "shaymin-sky": {
-    "base_attack": 210,
-    "base_defense": 210,
+    "base_attack": 261,
+    "base_defense": 166,
     "base_stamina": 225
   },
   "shaymin": {
-    "base_attack": 261,
-    "base_defense": 166,
+    "base_attack": 210,
+    "base_defense": 210,
     "base_stamina": 225
   },
   "arceus": {
@@ -4590,8 +4590,8 @@
     "base_stamina": 284
   },
   "shaymin-land": {
-    "base_attack": 261,
-    "base_defense": 166,
+    "base_attack": 210,
+    "base_defense": 210,
     "base_stamina": 225
   }
 }
