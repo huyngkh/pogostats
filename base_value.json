@@ -1,8 +1,8 @@
 {
   "bulbasaur": {
-    "base_attack": 118,
-    "base_defense": 118,
-    "base_stamina": 90
+    "base_attack": 1187,
+    "base_defense": 1187,
+    "base_stamina": 907
   },
   "ivysaur": {
     "base_attack": 151,
